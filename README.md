@@ -79,8 +79,6 @@ Welcome to the AI Text Summarizer App! This application allows you to summarize 
 
 ## Image 📸
 
-![Demo Image](demo.png)
-
 ## Getting Started 🚀
 
 ### Prerequisites 🛠️
