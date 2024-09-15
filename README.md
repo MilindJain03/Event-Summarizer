@@ -9,9 +9,6 @@ Welcome to the AI Text Summarizer App! This application allows you to summarize 
 - Utilizes the Hugging Face Facebook LLM model for text summarization.
 - Easy-to-use interface for entering and viewing text summaries.
 
-## Demo 📸
-<img src="Screenshot (141).png" alt="AI text summarize srceenshot" alt="AI text summarize srceenshot">
-
 
 ## Getting Started 🚀
 
@@ -76,8 +73,6 @@ Welcome to the AI Text Summarizer App! This application allows you to summarize 
 - Built with React, Vite, and Tailwind CSS for a modern and responsive UI.
 - Utilizes the Hugging Face Facebook LLM model for text summarization.
 - Easy-to-use interface for entering and viewing text summaries.
-
-## Image 📸
 
 ## Getting Started 🚀
 
