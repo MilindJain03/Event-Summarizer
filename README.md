@@ -46,12 +46,6 @@ The app will send the text to the Hugging Face Facebook LLM model through an API
 Deployment 🌐
 To deploy the app for production, you can use Vercel, Netlify, or any other hosting platform that supports React applications. Make sure to set up environment variables for sensitive information such as API tokens securely.
 
-Credits 🙏
-This app was built by Your Name.
-Special thanks to Hugging Face for providing access to their model through an API.
-License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 css
 Copy code
 
@@ -109,13 +103,6 @@ Enter the text you want to summarize in the text area and click the "Summarize" 
 The app will send the text to the Hugging Face Facebook LLM model through an API, and display the summarized text in the output area.
 Deployment 🌐
 To deploy the app for production, you can use Vercel, Netlify, or any other hosting platform that supports React applications. Make sure to set up environment variables for sensitive information such as API tokens securely.
-
-Credits 🙏
-This app was built by Your Name.
-Special thanks to Hugging Face for providing access to their model through an API.
-License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 
